@@ -1946,6 +1946,7 @@ const char *cmd_set_prop_map[DSI_CMD_SET_MAX] = {
 	"qcom,mdss-dsi-dispparam-hbm-fod-off-command",
 	"qcom,mdss-dsi-read-lockdown-info-command",
 	"qcom,mdss-dsi-dispparam-bc-120hz-command",
+	"qcom,mdss-dsi-dispparam-bc-90hz-command",
 	"qcom,mdss-dsi-dispparam-bc-60hz-command",
 };
 
@@ -1982,6 +1983,7 @@ const char *cmd_set_state_map[DSI_CMD_SET_MAX] = {
 	"qcom,mdss-dsi-dispparam-hbm-fod-off-command-state",
 	"qcom,mdss-dsi-read-lockdown-info-command-state",
 	"qcom,mdss-dsi-dispparam-bc-120hz-command-state",
+	"qcom,mdss-dsi-dispparam-bc-90hz-command-state",
 	"qcom,mdss-dsi-dispparam-bc-60hz-command-state",
 };
 
